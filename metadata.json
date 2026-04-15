@@ -1,0 +1,8 @@
+{
+  "name": "MarketEchoEngine@TraderX-Flow",
+  "description": "Historical correlation and DTW analysis for market indices with volatility normalization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [],
+  "C7": [],
+  "Xp": []
+}
